@@ -1,1 +1,1 @@
-// Placeholder for script logic
+// JS placeholder

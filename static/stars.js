@@ -1,1 +1,1 @@
-// Placeholder for stars animation
+// Stars.js placeholder
