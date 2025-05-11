@@ -1,1 +1,1 @@
-// Star field
+// Stars visual placeholder
