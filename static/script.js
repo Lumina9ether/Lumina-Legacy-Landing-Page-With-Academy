@@ -1,1 +1,1 @@
-// Reserved for AI logic
+// Placeholder for interactive JS
