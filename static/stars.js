@@ -1,1 +1,1 @@
-// Background star logic placeholder
+// Star field

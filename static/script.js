@@ -1,1 +1,1 @@
-// JS logic placeholder
+// Placeholder
