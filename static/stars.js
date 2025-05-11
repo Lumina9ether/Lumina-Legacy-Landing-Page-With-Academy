@@ -1,1 +1,1 @@
-// Placeholder for animated stars
+// Stars Placeholder
