@@ -1,1 +1,1 @@
-// Placeholder for interaction JS
+// Placeholder for logic

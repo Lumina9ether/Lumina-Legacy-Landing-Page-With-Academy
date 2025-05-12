@@ -1,1 +1,1 @@
-// Stars animation
+// Star background effect logic
