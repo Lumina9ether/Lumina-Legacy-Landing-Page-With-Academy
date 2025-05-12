@@ -1,1 +1,1 @@
-// Star visual logic
+// Placeholder for stars background

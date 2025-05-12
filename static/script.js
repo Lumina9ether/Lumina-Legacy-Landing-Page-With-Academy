@@ -1,1 +1,1 @@
-// Placeholder for interactive JS
+// Reserved for voice logic
