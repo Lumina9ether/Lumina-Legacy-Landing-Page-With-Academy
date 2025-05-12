@@ -1,1 +1,1 @@
-// Stars placeholder
+// Placeholder
