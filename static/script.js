@@ -1,1 +1,1 @@
-// JS handled inline
+// JS logic handled inline

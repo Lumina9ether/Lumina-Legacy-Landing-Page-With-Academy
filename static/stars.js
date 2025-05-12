@@ -1,1 +1,1 @@
-// Background animation placeholder
+// Star background logic placeholder
