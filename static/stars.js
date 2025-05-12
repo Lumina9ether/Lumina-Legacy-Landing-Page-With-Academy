@@ -1,1 +1,1 @@
-// Star background logic placeholder
+// Stars placeholder

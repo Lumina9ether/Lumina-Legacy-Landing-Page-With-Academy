@@ -1,1 +1,1 @@
-// JS logic handled inline
+// Placeholder
