@@ -1,1 +1,1 @@
-// Placeholder for stars background
+// Stars Placeholder
