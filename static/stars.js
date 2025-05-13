@@ -1,1 +1,1 @@
-// Stars Placeholder
+// Star field
